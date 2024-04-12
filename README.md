@@ -25,6 +25,14 @@
 
 ¡Buena suerte!
 
+### Hecho por
+- Nicolas Esteban Muñoz Sendoya
+- ID Estudiantil: 0000302248
+
+### Link de la API
+
+- 
+
 
 Lista de nombres de la clase:
 
