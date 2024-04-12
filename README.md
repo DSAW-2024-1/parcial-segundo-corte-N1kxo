@@ -31,7 +31,7 @@
 
 ### Link de la API
 
-- 
+- https://parcial-segundo-corte-xi.vercel.app
 
 
 Lista de nombres de la clase:
