@@ -145,3 +145,5 @@ app.post('/users', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Servidor Express corriendo en el puerto ${PORT}`);
 });
+
+module.exports = app;
